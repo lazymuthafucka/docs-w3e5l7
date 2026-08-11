@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nanerc.pulaucuan.online/sitemap.xml
